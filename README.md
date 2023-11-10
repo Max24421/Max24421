@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Max24421
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in AI, ML and backend
+- 🌱 I’m currently learning Java
 
 
 <!---
